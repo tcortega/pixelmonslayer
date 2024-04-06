@@ -1,0 +1,10 @@
+{
+  "package": "com.tcortega.pixelmonslayer.core.mixin.pixelmon",
+  "refmap": "mixins.pixelmonslayer.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "RandomHelperMixin"
+  ]
+}
